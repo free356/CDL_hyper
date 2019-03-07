@@ -1,6 +1,6 @@
 # CDL_hyper
 This is the implementation of the paper "Collaborative Deep Learning for Recommender Systems". 
-Compared to the original paper, I added the recall indicator. In addition, I added Hyperopt to automatically select the optimal hyperparameter.
+Compared to the original code, I added the recall indicator. In addition, I added Hyperopt to automatically select the optimal hyperparameter.
 
 Python (Tensorflow) Implementation
 
@@ -12,4 +12,4 @@ politic_new : made by Kyungwoo Song (under the review paper) 1990~2016 legislati
 
 You can download politic_old from https://www.dropbox.com/sh/6gftfkhfvh4zry0/AAD5-6CM1eyH9N_PKLmTzsyya?dl=0 You can download politic_new from https://www.dropbox.com/sh/22owwpamgn4ryzj/AACyMnEDqCMThrhUeVTaXiiya?dl=0
 
-
+Original code:https://github.com/gtshs2/Collaborative_Deep_Learning
